@@ -1,10 +1,10 @@
 
 # Malunga Bhedabari -1
 
-| Person Name  				| Contact Number 	| Kathmandu Place 		| Family Members |
-| --------------------------| ------------------| ----------------------|----------------|
-| दिपक बस्याल (राजु)  			| 9851022345 		|बानेश्वर  					|    4           |
-| Content Cell  			| Content Cell  	|Third Content 			|                |
+| व्यक्तिको नाम					| सम्पर्क नम्बर			| काठमाण्डौमा बसाइ			| सदस्य संख्या 		|
+| --------------------------| ------------------| ----------------------|---------------|
+| दिपक बस्याल (राजु)  			| 9851022345 		|बानेश्वर  					|    4          |
+| Content Cell  			| Content Cell  	|Third Content 			|               |
 
 # Malunga Basindanda -2
 
