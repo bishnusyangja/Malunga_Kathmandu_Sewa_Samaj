@@ -1,16 +1,17 @@
 # Malunga Bhedabari - 1
 
-| SN | Person Name					| Contact Name	| Kathmandu Place		| Occupation				| Members 	|
+| SN | Person Name					| Contact Num	| Kathmandu Place		| Occupation				| Members 	|
 |----| -------------------------	| --------------| ----------------------|---------------------		|-----------|
-| 1	 | Dipak Basyal (Raju) 			| 9851147256 	|Baneshwar  			|    Business      			|	4		|
-| 2	 | Dipak Basyal		 			| 9841214611 	|Kirtipur  				|    Gov. Job      			|	4		|
-| 3	 | Dipesh Basyal		 		| 9851283983 	|Durbar Marg  			|    Police/DSP      		|	1		|
-| 4	 | Umesh Basyal		 			| 9841546397 	|Baneshwar				|    Transportation Job		|	1		|
+| 1	 | Dipak Basyal (Raju) 			| 9851147256 	|Baneshwar  			|   Business      			|	4		|
+| 2	 | Dipak Basyal		 			| 9841214611 	|Kirtipur  				|   Gov. Job      			|	4		|
+| 3	 | Dipesh Basyal		 		| 9851283983 	|Durbar Marg  			|   Police/DSP      		|	1		|
+| 4	 | Umesh Basyal		 			| 9841546397 	|Baneshwar				|   Transportation Job		|	1		|
+| 5	 | Shiva Adhikari				| 9846724059 	|Tokha 					|   Civil Engineer/Business	|   3		|
 
 
 # Malunga Basindanda - 2
 
-| SN | Person Name					| Contact Name	| Kathmandu Place		| Occupation				| Members 	|
+| SN | Person Name					| Contact Num	| Kathmandu Place		| Occupation				| Members 	|
 |----| -------------------------	| --------------| ----------------------|---------------------		|-----------|
 | 1	 | Bishnu Bhattarai 			| 9849488227 	|Kirtipur  				|   Computer Engineer		|   2		|
 | 2	 | Shiva Basyal 				| 9849483372 	|Kirtipupr  			|   GOv. Job    			| 	4		|
@@ -27,7 +28,7 @@
 
 # Malunga Kota/KhadaGaira - 3
 
-| SN | Person Name					| Contact Name	| Kathmandu Place		| Occupation				| Members 	|
+| SN | Person Name					| Contact Num	| Kathmandu Place		| Occupation				| Members 	|
 |----| -------------------------	| --------------| ----------------------|---------------------		|-----------|
 | 1	 | Phanishwar Basyal (Nabin)	| 9841567800 	|Tokha-3, Grandee 		|   Business/School			|   2		|
 | 2	 | BhimLal Basyal 				| 9841261602 	|Nepaltar  				|       					| 	4		|
@@ -43,7 +44,7 @@
 
 
 # Malunga Jaukharak - 6
-| SN | Person Name					| Contact Name	| Kathmandu Place		| Occupation				| Members 	|
+| SN | Person Name					| Contact Num	| Kathmandu Place		| Occupation				| Members 	|
 |----| -------------------------	| --------------| ----------------------|---------------------		|-----------|
 | 1	 | Dolraj Pandey				| 9841895972 	|Sitapaila 				|   RNAC Job				|   1		|
 | 2	 | Tekraj Pandey				| 9843367710 	|Sitapaila 				|   Insurance				|   3		|
