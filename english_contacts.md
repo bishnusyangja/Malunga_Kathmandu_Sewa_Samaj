@@ -3,10 +3,23 @@
 | SN | Person Name					| Contact Num	| Kathmandu Place		| Occupation				| Members 	|
 |----| -------------------------	| --------------| ----------------------|---------------------		|-----------|
 | 1	 | Dipak Basyal (Raju) 			| 9851147256 	|Baneshwar  			|   Business      			|	4		|
-| 2	 | Dipak Basyal		 			| 9841214611 	|Kirtipur  				|   Gov. Job      			|	4		|
-| 3	 | Dipesh Basyal		 		| 9851283983 	|Durbar Marg  			|   Police/DSP      		|	1		|
-| 4	 | Umesh Basyal		 			| 9841546397 	|Baneshwar				|   Transportation Job		|	1		|
-| 5	 | Shiva Adhikari				| 9846724059 	|Tokha 					|   Civil Engineer/Business	|   3		|
+| 2	 | Bishnu Basyal				| 9849472208 	|Baneshwar				|   -						|   1		|
+| 4	 | Dipak Basyal		 			| 9841214611 	|Kirtipur  				|   Gov. Job      			|	5		|
+| 4	 | Dipesh Basyal		 		| 9851283983 	|Durbar Marg  			|   Police/DSP      		|	1		|
+| 5	 | Umesh Basyal		 			| 9841546397 	|Baneshwar				|   Transportation Job		|	1		|
+| 6	 | Shiva Adhikari				| 9846724059 	|Tokha 					|   Civil Engineer/Business	|   3		|
+| 3	 | Narayan Adhikari				|  				|Tokha					|   -						|   1		|
+| 3	 | Anita Adhikari				|  				|Tokha					|   -						|   1		|
+| 7	 | Lilamani Basyal				|  				|						|   Student					|   1		|
+| 8	 | Mandhira Basyal				|  				|						|   -						|   1		|
+| 9	 | Rabina Basyal				|  				|Kalanki				|   -						|   1		|
+| 10 | Dipenti Basyal				|  				|Kalanki				|   -						|   1		|
+| 11 | Rekha Basyal					|  				|Kalanki				|   -						|   2		|
+| 12 | Sushmita Pandey 				|  				|						|   -						|   1		|
+| 13 | Bed Prasad Pandey			|  				|						|   -						|   3		|
+| 14 | Tikaram Pandey				| 				|						|   -						|   3		|
+| 15 | Jivlal Basyal				|  				|						|   -						|   1		|
+
 
 
 # Malunga Basindanda - 2
@@ -21,8 +34,17 @@
 | 6	 | Dipak Neupane (Pandit ji) 	| 9841436961 	|Satdobato, Lalitpur	|	Teacher    				| 	4		|
 | 7	 | Dinesh Neupane 				| 9843605846 	|Baneshwar				|	Travel Business    		| 	4		|
 | 8	 | Thomnath Basyal (Mahesh) 	| 9843605846 	|Balaju					|	Garment Business   		| 	6		|
-| 9	 | Beni Madhav Basyal 			|  				|Balaju					|	  						| 	1		|
+| 9	 | Beni Madhav Basyal 			| 9851300014	|Balaju					|	  						| 	1		|
 | 10 | Dolraj Basyal 				| 9851209914	|Budhanilkantha			|	Business/School			| 	1		|
+| 11 | Rishi Basyal					| 9851080519 	|Tarkeshwar				|   Journalist				|   3		|
+| 12 | Sundar Basyal				| 9869064061 	|						|   -						|   1		|
+| 13 | Baikuntha Basyal (BishwaDev)	| 9851106404 	|						|   -						|   3		|
+| 14 | Joseph Basyal (Raju Sir)		| 9848751658 	|						|   Student					|   1		|
+| 15 | Bishal Chaulagain			| 9816625276 	|Maharajgunj			|   Civil ENgineer			|   1		|
+| 16 | Sundar Neupane				|  				|						|   RNAC					|   1		|
+| 17 | Bhuparaj Basyal 				| 9849472208 	| Baneshwar				|   -						|   3		|
+| 18 | Narayan Basyal Agyat			| 9863227509 	| Kirtipur				|   -						|   1		|
+| 19 | Jagnath Basyal				| 9841508488 	|Imadol					|   Business				|   3		|
 
 
 
@@ -40,11 +62,65 @@
 | 8	 | Nirmal Basyal 				| 9846703023	|Sankhamul 				|   Study					| 	3		|
 | 9	 | Purushottam Basyal 			| 9846168246 	|Satdobato, Lalitpur	|   Teacher					| 	4		|
 | 10 | Narayan Basyal 				| 9851235030 	|Sanothimi, Bhaktapur	|   Student					| 	4		|
+| 11 | Chinta Mani Basyal			| 9846601955 	|Budhanilkantha			|   Teacher					|   3		|
+| 12 | Bibek Basyal	(Baburam Nati)	| 9867105488 	|						|   -						|   1		|
+| 13 | Bishal Basyal (laxmi son)	|  				|						|   -						|   1		|
+| 3	 | Bimala Basyal				|  				|						|   -						|   1		|
+| 3	 | Pawan Basyal					|  				|						|   -						|   1		|
 
 
 
 # Malunga Jaukharak - 6
+
 | SN | Person Name					| Contact Num	| Kathmandu Place		| Occupation				| Members 	|
 |----| -------------------------	| --------------| ----------------------|---------------------		|-----------|
 | 1	 | Dolraj Pandey				| 9841895972 	|Sitapaila 				|   RNAC Job				|   1		|
 | 2	 | Tekraj Pandey				| 9843367710 	|Sitapaila 				|   Insurance				|   3		|
+| 3	 | Ishwari Pandey				| - 			|						|   Teacher					|   4		|
+
+
+
+
+# Malunga Tunibot/NewarThumka/Chaur - 7
+
+| SN | Person Name					| Contact Num	| Kathmandu Place		| Occupation				| Members 	|
+|----| -------------------------	| --------------| ----------------------|---------------------		|-----------|
+| 1	 | Shree Ram Bhandari			| 9841895972 	|Budhanilkantha			|   -						|   1		|
+| 2	 | Hari Bhandari				| 9851290029 	|Budhanilkantha			|   -						|   1		|
+| 3	 | Amit Bhandari				| 9849472208 	|Budhanilkantha			|   -						|   1		|
+| 4	 | Anil Bhandari				| 9851199138 	|Budhanilkantha			|   Consultancy/Japan		|   4		|
+| 5	 | Krishna Mani Bhandari		|  				|Samakhusi				|   -						|   1		|
+| 6	 | Hari Pandey					| 9851055751 	|Naya Baneshwar			|   -						|   3		|
+| 7	 | Arjun Pandey					|  				|Budhanilkantha			|   -						|   4		|
+| 8	 | Bidur Bhandari				| 9844735845 	|Maharajgunj			|   Consultancy/USA			|   1		|
+| 9	 | Keshabraj Pandey				|  				|Sohrakhutte			|   -						|   1		|
+| 10 | Hari Pandey					| 9851064650 	|Budhanilkantha			|   -						|   1		|
+| 11 | Raju Pandey					|  				|Kalanki				|   Retired Army			|   3		|
+| 12 | Sampanna Pandey				|  				|SallaGhari				|   -						|   2		|
+| 13 | Santosh Bhandari(Poshnarayan)| 9849472208 	|Tokha					|   -						|   1		|
+| 14 | Pharsuraam Neupane			| 9841689163 	|Kalanki				|   -						|   3		|
+| 15 | Santosh Basyal				| 9867931492 	|Manamaiju/Buspark		|   Consultancy				|   1		|
+| 16 | Raju Pandey					| 9846800802 	|DhungeDhara			|   -						|   2		|
+| 17 | Krishna Prasad Pandey		|  				|Makalbari				|   -						|   1		|
+| 18 | IndraPrasad Basyal			| 9846733857	|Balaju					|   -						|   1		|
+
+
+
+# Malunga Phata - 8
+
+| SN | Person Name					| Contact Num	| Kathmandu Place		| Occupation				| Members 	|
+|----| -------------------------	| --------------| ----------------------|---------------------		|-----------|
+| 1	 | Bikram Tiwari				|  				|Kirtipur				|  Student					|   1		|
+| 2	 | Bibas Tiwari					|  				|Kirtipur				|  Student					|   1		|
+
+
+
+# Malunga Dhangling - 9
+
+| SN | Person Name					| Contact Num	| Kathmandu Place		| Occupation				| Members 	|
+|----| -------------------------	| --------------| ----------------------|---------------------		|-----------|
+| 1	 | Mitral Bhandari Lion			|  				| Nakhu					|  Engineer					|   2		|
+| 2	 | Ram Prasad Bhandari 			|  				| Maharajgunj			|  RNAC/Engineer			|   2		|
+| 3	 | Shiva Bhandari 				|  				| Budhanilkantha		|  CA						|   2		|
+| 4	 | Damodar Bhandari 			|  				| 						|  Singer					|   1		|
+| 5	 | Hari Bhandari 				|  				| Dhangling				|  Student					|   1		|
