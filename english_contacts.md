@@ -65,8 +65,8 @@
 | 11 | Chinta Mani Basyal			| 9846601955 	|Budhanilkantha			|   Teacher					|   3		|
 | 12 | Bibek Basyal	(Baburam Nati)	| 9867105488 	|						|   -						|   1		|
 | 13 | Bishal Basyal (laxmi son)	|  				|						|   -						|   1		|
-| 3	 | Bimala Basyal				|  				|						|   -						|   1		|
-| 3	 | Pawan Basyal					|  				|						|   -						|   1		|
+| 14 | Bimala Basyal				|  				|						|   -						|   1		|
+| 15 | Pawan Basyal					|  				|						|   -						|   1		|
 
 
 
