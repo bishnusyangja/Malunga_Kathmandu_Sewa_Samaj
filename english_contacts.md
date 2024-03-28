@@ -40,11 +40,13 @@
 | 12 | Sundar Basyal				| 9869064061 	|						|   -						|   1		|
 | 13 | Baikuntha Basyal (BishwaDev)	| 9851106404 	|						|   -						|   3		|
 | 14 | Joseph Basyal (Raju Sir)		| 9848751658 	|						|   Student					|   1		|
-| 15 | Bishal Chaulagain			| 9816625276 	|Maharajgunj			|   Civil ENgineer			|   1		|
+| 15 | Bishal Chaulagain			| 9816625276 	|Maharajgunj			|   Civil ENgineer			|   2		|
 | 16 | Sundar Neupane				|  				|						|   RNAC					|   1		|
-| 17 | Bhuparaj Basyal 				| 9849472208 	| Baneshwar				|   -						|   3		|
-| 18 | Narayan Basyal Agyat			| 9863227509 	| Kirtipur				|   -						|   1		|
+| 17 | Bhuparaj Basyal 				| 9849472208 	|Baneshwar				|   -						|   3		|
+| 18 | Narayan Basyal Agyat			| 9863227509 	|Kirtipur				|   -						|   1		|
 | 19 | Jagnath Basyal				| 9841508488 	|Imadol					|   Business				|   3		|
+| 20 | Tanka Basyal					| 9851174878 	|						|   Consultancy				|   3		|
+| 21 | Parbati Pandey				|  				|Tokha					|   Business				|   2		|
 
 
 
@@ -74,9 +76,11 @@
 
 | SN | Person Name					| Contact Num	| Kathmandu Place		| Occupation				| Members 	|
 |----| -------------------------	| --------------| ----------------------|---------------------		|-----------|
-| 1	 | Dolraj Pandey				| 9841895972 	|Sitapaila 				|   RNAC Job				|   1		|
-| 2	 | Tekraj Pandey				| 9843367710 	|Sitapaila 				|   Insurance				|   3		|
-| 3	 | Ishwari Pandey				| - 			|						|   Teacher					|   4		|
+| 1	 | Dolraj Pandey				| 9841895972 	|Sitapaila 				| RNAC Job					|   1		|
+| 2	 | Tekraj Pandey				| 9843367710 	|Sitapaila 				| Insurance					|   3		|
+| 3	 | Ishwari Pandey				|  				|						| Teacher					|   4		|
+| 4	 | Shreedhar Pandey				|  				|Kirtipur				| Computer Engineer			|   1		|
+| 5  | Tankaraj Pandey				|  				|Sitapaila				| Gov. Officer				|   3		|
 
 
 
