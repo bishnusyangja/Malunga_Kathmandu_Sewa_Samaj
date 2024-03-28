@@ -85,7 +85,16 @@
 
 
 
-# Malunga Tunibot/NewarThumka/Chaur - 7
+# Malunga Gaira/Chaur - 7
+
+| SN | Person Name					| Contact Num	| Kathmandu Place		| Occupation				| Members 	|
+|----| -------------------------	| --------------| ----------------------|---------------------		|-----------|
+| 1	 | Bikram Tiwari				|  				|Kirtipur				|  Student					|   1		|
+| 2	 | Bibas Tiwari					|  				|Kirtipur				|  Student					|   1		|
+
+
+
+# Malunga Tunibot/Phata - 8
 
 | SN | Person Name					| Contact Num	| Kathmandu Place		| Occupation				| Members 	|
 |----| -------------------------	| --------------| ----------------------|---------------------		|-----------|
@@ -105,17 +114,10 @@
 | 14 | Pharsuraam Neupane			| 9841689163 	|Kalanki				|   -						|   3		|
 | 15 | Santosh Basyal				| 9867931492 	|Manamaiju/Buspark		|   Consultancy				|   1		|
 | 16 | Raju Pandey					| 9846800802 	|DhungeDhara			|   -						|   2		|
-| 17 | Krishna Prasad Pandey		|  				|Makalbari				|   -						|   1		|
+| 17 | Krishna Prasad Pandey		|  				|Makalbari				|   Business				|   1		|
 | 18 | IndraPrasad Basyal			| 9846733857	|Balaju					|   -						|   1		|
 
 
-
-# Malunga Phata - 8
-
-| SN | Person Name					| Contact Num	| Kathmandu Place		| Occupation				| Members 	|
-|----| -------------------------	| --------------| ----------------------|---------------------		|-----------|
-| 1	 | Bikram Tiwari				|  				|Kirtipur				|  Student					|   1		|
-| 2	 | Bibas Tiwari					|  				|Kirtipur				|  Student					|   1		|
 
 
 
