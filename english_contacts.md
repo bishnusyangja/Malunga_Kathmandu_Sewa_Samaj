@@ -47,6 +47,7 @@
 | 19 | Jagnath Basyal				| 9841508488 	|Imadol					|   Business				|   3		|
 | 20 | Tanka Basyal					| 9851174878 	|						|   Consultancy				|   3		|
 | 21 | Parbati Pandey				|  				|Tokha					|   Business				|   2		|
+| 22 | Dinesh ko Bhai tallara		|  				|						|   Business				|   2		|
 
 
 
@@ -69,6 +70,16 @@
 | 13 | Bishal Basyal (laxmi son)	|  				|						|   -						|   1		|
 | 14 | Bimala Basyal				|  				|						|   -						|   1		|
 | 15 | Pawan Basyal					|  				|						|   -						|   1		|
+| 16 | Narayal Basyal (Pokhreli)	| 9851235030	|						|   Gov. Job/Tourism Board	|   3		|
+| 16 | Narayal Basyal (Thanu Bhai)	| 				|						|   Gov. Job/Tourism Board	|   3		|
+
+
+
+# Malunga Bajadi/Gau - 4,5
+| SN | Person Name					| Contact Num	| Kathmandu Place		| Occupation				| Members 	|
+|----| -------------------------	| --------------| ----------------------|---------------------		|-----------|
+| 1	 | Dhan Bahadur Hiski Magar		| 9860550028 	|Lokanthali 			| 							|   1		|
+| 2	 | Bishnu Maya Uchahi			| 9849650578 	|			 			| Business/hardware-metal	|   1		|
 
 
 
@@ -81,6 +92,10 @@
 | 3	 | Ishwari Pandey				|  				|						| Teacher					|   4		|
 | 4	 | Shreedhar Pandey				|  				|Kirtipur				| Computer Engineer			|   1		|
 | 5  | Tankaraj Pandey				|  				|Sitapaila				| Gov. Officer				|   3		|
+| 6  | Narayan Basyal				|  9861170246	|Dhobighat				| Business/Hotel			|   3		|
+| 7  | Ishu Basyal					|  				|						| 							|   1		|
+| 8  | Durga Basyal					|  				|						| Business/Hotel			|   1		|
+
 
 
 
