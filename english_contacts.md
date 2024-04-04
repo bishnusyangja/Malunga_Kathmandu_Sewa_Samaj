@@ -106,7 +106,8 @@
 |----| -------------------------	| --------------| ----------------------|---------------------		|-----------|
 | 1	 | Bikram Tiwari				|  				|Kirtipur				|  Student					|   1		|
 | 2	 | Bibas Tiwari					|  				|Kirtipur				|  Student					|   1		|
-
+| 3	 | Madhav Tiwari				|  				|Lainchaur				|  Hotel and Lodge			|   4		|
+| 2	 | Lekhnath Tiwari				|  				|Thapathali				|  Freelancer				|   4		|
 
 
 # Malunga Tunibot/Phata - 8
