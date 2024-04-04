@@ -46,8 +46,9 @@
 | 18 | Narayan Basyal Agyat			| 9863227509 	|Kirtipur				|   -						|   1		|
 | 19 | Jagnath Basyal				| 9841508488 	|Imadol					|   Business				|   3		|
 | 20 | Tanka Basyal					| 9851174878 	|						|   Consultancy				|   3		|
-| 21 | Parbati Pandey				|  				|Tokha					|   Business				|   2		|
-| 22 | Dinesh ko Bhai tallara		|  				|						|   Business				|   2		|
+| 21 | Parbati Pandey				|  				|Tokha					|   						|   2		|
+| 22 | Dinesh ko Bhai tallara		|  				|						|   						|   2		|
+| 23 | Sudip Basyal					| 9851169406	|Koteshwar				|   Business				|   2		|
 
 
 
