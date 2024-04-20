@@ -18,12 +18,15 @@ def main():
 		csv_reader = csv.reader(csvfile)
 		md_file.write('| SN | Person Name | Contact Num	| Kathmandu Place | Occupation | Members | \n')
 		md_file.write('|----| ----- | -----| ----|-----|-----| \n')
-		for i, row in enumerate(csv_reader):
+		
+		list_items = list(csv_reader)
+		sorted_rows = sorted(list_items, key=lambda x: x[0])
+		for i, row in enumerate(sorted_rows):
 			if i == 0:
 				continue
 			# todo sort by alphabetical order
 			row_content = ' | '.join(row)
-			md_file.write('| {} | {} | \n'.format(i+1, row_content))
+			md_file.write('| {} | {} | \n'.format(i, row_content))
 		csvfile.close()
 	md_file.close()
 
