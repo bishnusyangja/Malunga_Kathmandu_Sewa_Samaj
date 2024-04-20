@@ -4,6 +4,7 @@ ward_list = ('# Malunga Bhedabari - 1', )
 
 def write_ward_headings(file, ward):
 	file.write('{}\n\n'.format(ward_list[ward-1], ))
+	file.write('|----| ----- | -----| ----|-----|-----|')
 	return file
 
 
@@ -21,7 +22,8 @@ def main():
 				continue
 			# todo sort by alphabetical order
 			row_content = ' | '.join(row)
-			md_file.write('| {} | {} |/n'.format(i+1, row_content))
+			md_file.write('| {} | {} |\n'.format(i+1, row_content))
+			md_file.write('| {} | {} |\n'.format(i+1, row_content))
 
 
 
