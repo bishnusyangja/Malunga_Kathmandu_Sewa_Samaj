@@ -49,6 +49,7 @@
 | 21 | Parbati Pandey				|  				|Tokha					|   						|   2		|
 | 22 | Dinesh ko Bhai tallara		|  				|						|   						|   2		|
 | 23 | Sudip Basyal					| 9851169406	|Koteshwar				|   Business				|   2		|
+| 24 | Dolaraj Basyal				| 9851117250	|Kirtipur				|   -						|   4		|
 
 
 
@@ -133,6 +134,7 @@
 | 16 | Raju Pandey					| 9846800802 	|DhungeDhara			|   -						|   2		|
 | 17 | Krishna Prasad Pandey		|  				|Makalbari				|   Business				|   1		|
 | 18 | IndraPrasad Basyal			| 9846733857	|Balaju					|   -						|   1		|
+| 19 | Krishna Prasad Shrestha		| 9843241185	|						|   -						|   1		|
 
 
 
