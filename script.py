@@ -24,7 +24,6 @@ def main():
 			# todo sort by alphabetical order
 			row_content = ' | '.join(row)
 			md_file.write('| {} | {} |\n'.format(i+1, row_content))
-			md_file.write('| {} | {} |\n'.format(i+1, row_content))
 
 
 
