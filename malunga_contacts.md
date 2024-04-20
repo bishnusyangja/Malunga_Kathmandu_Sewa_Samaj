@@ -1,6 +1,6 @@
 # Malunga Bhedabari - 1
 
-|----| ----- | -----| ----|-----|-----|| SN | Person Name | Contact Num	| Kathmandu Place | Occupation | Members || 2 | Dipak Basyal (Raju) |  9851147256 |  Baneshwar |  Business |  4 |
+| SN | Person Name | Contact Num	| Kathmandu Place | Occupation | Members ||----| ----- | -----| ----|-----|-----|| 2 | Dipak Basyal (Raju) |  9851147256 |  Baneshwar |  Business |  4 |
 | 2 | Dipak Basyal (Raju) |  9851147256 |  Baneshwar |  Business |  4 |
 | 3 | Bishnu Basyal |  9849472208 |  Baneshwar |   | 1 |
 | 3 | Bishnu Basyal |  9849472208 |  Baneshwar |   | 1 |
