@@ -16,14 +16,16 @@ def main():
 		csvfile = open(filename, 'r', newline='')
 		md_file = write_ward_headings(md_file, ward)
 		csv_reader = csv.reader(csvfile)
-		md_file.write('| SN | Person Name | Contact Num	| Kathmandu Place | Occupation | Members |\n')
-		md_file.write('\n|----| ----- | -----| ----|-----|-----|\n')
+		md_file.write('| SN | Person Name | Contact Num	| Kathmandu Place | Occupation | Members | \n')
+		md_file.write('\n |----| ----- | -----| ----|-----|-----| \n')
 		for i, row in enumerate(csv_reader):
 			if i == 0:
 				continue
 			# todo sort by alphabetical order
 			row_content = ' | '.join(row)
-			md_file.write('| {} | {} |\n'.format(i+1, row_content))
+			md_file.write('| {} | {} | \n'.format(i+1, row_content))
+		csvfile.close()
+	md_file.close()
 
 
 
