@@ -11,7 +11,7 @@
 | 7 | Jivlal Basyal |   |   |   |  3 | 
 | 8 | Lilamani Basyal |   |   |  Student |  1 | 
 | 9 | Mandira Basyal |   |   |   |  1 | 
-| 10 | Narayan Adhikari |   |  Tokha |  1 | 
+| 10 | Narayan Adhikari |   |  Tokha |  Student |  1 | 
 | 11 | Rekha Basyal |   |  Kalanki |  Teaching |  2 | 
 | 12 | Shiva Adhikari |  9846724059 |  Tokha |  Civil Engineer/Business |  3 | 
 | 13 | Sushmita Pandey |   |   |   |  1 | 
@@ -40,7 +40,7 @@
 | 17 | Sudip Basyal |  9851169406 |  Koteshwar |  Business |  2 | 
 | 18 | Sundar Basyal |  9869064061 |   |   |  1 | 
 | 19 | Sundar Neupane |   |  Kirtipur |  RNAC |  1 | 
-| 20 | Tanka Basyal |  9851174878 |  Consultancy |  3 | 
+| 20 | Tanka Basyal |  9851174878 |   |  Consultancy |  3 | 
 | 21 | Thomnath Basyal (Mahesh) |  9843605846 |  Balaju |  Garment Business |  6 | 
 | 22 | Yagya Murti Basyal (Surya) |  9848077691 |  Kalanki | Nepal Bank | 	4 | 
 # Malunga Kota/KhadaGaira -3
