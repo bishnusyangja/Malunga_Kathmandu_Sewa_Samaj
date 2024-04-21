@@ -21,7 +21,7 @@
 
 | SN | Person Name | Contact Num	| Kathmandu Place | Occupation | Members | 
 |----| ----- | -----| ----|-----|-----| 
-| 1 | Beni Madhav Basyal | 	9851300014 | 	Balaju |  1 | 
+| 1 | Beni Madhav Basyal | 	9851300014 | 	Balaju |   |  1 | 
 | 2 | Bhuparaj Basyal |  9849472208 |  Baneshwar |   |  3 | 
 | 3 | Bishal Chaulagain |  9816625276 |  Maharajgunj |  Civil ENgineer |  2 | 
 | 4 | Bishnu Bhattarai |  9849488227 |  Kirtipur |  Computer Engineer |  2  | 
@@ -38,7 +38,7 @@
 | 15 | Rishi Basyal |  9851080519 |  Tarkeshwar |  Journalist |  4 | 
 | 16 | Shiva Basyal |  9849483372 |  Kirtipupr |  GOv. Job |  4 | 
 | 17 | Sudip Basyal |  9851169406 |  Koteshwar |  Business |  2 | 
-| 18 | Sundar Basyal |  9869064061 |   |  1 | - | 
+| 18 | Sundar Basyal |  9869064061 |   |   |  1 | 
 | 19 | Sundar Neupane |   |  Kirtipur |  RNAC |  1 | 
 | 20 | Tanka Basyal |  9851174878 |  Consultancy |  3 | 
 | 21 | Thomnath Basyal (Mahesh) |  9843605846 |  Balaju |  Garment Business |  6 | 
@@ -55,14 +55,13 @@
 | 6 | Mukti Gaire |  9846863476 |  Nepaltar |  Business |  4 | 
 | 7 | Narayal Basyal (Pokhreli) |  9851235030 |  Bhaktapur |  Gov. Job/Tourism Board |  3 | 
 | 8 | Narayal Basyal (Thanu Bhai) |   |   |   |  3 | 
-| 9 | Narayan Basyal |  9851235030 |  Sanothimi |  Bhaktapur |  Student |  4 | 
-| 10 | Nirmal Basyal |  9846703023 |  Sankhamul |  Study |  3 | 
-| 11 | Pawan Basyal |   |   |   |  1 | 
-| 12 | Phanishwar Basyal (Nabin) |  9841567800 |  Tokha-3/Grandee |  Business/School |  2 | 
-| 13 | Purushottam Basyal |  9846168246 |  Satdobato-Lalitpur |  Teacher |  4 | 
-| 14 | Sagar Basyal |  9851196378 |  Balaju |  Business/Shopkeeper |  4 | 
-| 15 | Surya Prasad Basyal |  9841046066 |  Dhapasi |  Business/Cook-Trainer |  4 | 
-| 16 | Tilochan Basyal |  9849937532 |  Gongabu-Buspark |   |  4 | 
+| 9 | Nirmal Basyal |  9846703023 |  Sankhamul |  Study |  3 | 
+| 10 | Pawan Basyal |   |   |   |  1 | 
+| 11 | Phanishwar Basyal (Nabin) |  9841567800 |  Tokha-3/Grandee |  Business/School |  2 | 
+| 12 | Purushottam Basyal |  9846168246 |  Satdobato-Lalitpur |  Teacher |  4 | 
+| 13 | Sagar Basyal |  9851196378 |  Balaju |  Business/Shopkeeper |  4 | 
+| 14 | Surya Prasad Basyal |  9841046066 |  Dhapasi |  Business/Cook-Trainer |  4 | 
+| 15 | Tilochan Basyal |  9849937532 |  Gongabu-Buspark |   |  4 | 
 # Malunga Bajadi/Gau - 4-5
 
 | SN | Person Name | Contact Num	| Kathmandu Place | Occupation | Members | 
