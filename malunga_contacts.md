@@ -175,7 +175,7 @@
 | 28 | Shiva Prasad Pandey |  9851020625 |  Syuchatar/Kalanki |  Business |  4 | 
 | 29 | Shree Ram Bhandari |  9841895972 |  Budhanilkantha |  Bank Officer |  1 | 
 | 30 | Tikaram Pandey |  9846506103 |  Imadole-Lalitpur |  Business |  1 | 
-| 31 | Yam Prasad Pandey |  9849357351 |  Retired Officer |  5 | 
+| 31 | Yam Prasad Pandey |  9849357351 |   |  Retired Officer |  5 | 
 
 
 # Malunga Dhangling - 9
