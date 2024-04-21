@@ -2,6 +2,7 @@
 
 | SN | Person Name | Contact Num	| Kathmandu Place | Occupation | Members | 
 |----| ----- | -----| ----|-----|-----| 
+| 0 | Anita Adhikari |   |  Tokha |  1 | 
 | 1 | Bed Prasad Pandey |   |   |  Business |  3 | 
 | 2 | Bishnu Basyal |  9849472208 |  Baneshwar |   | 1 | 
 | 3 | Dipak Basyal |  9841214611 |  Kirtipur |  Gov. Job |  5 | 
@@ -17,10 +18,13 @@
 | 13 | Sushmita Pandey |   |   |   |  1 | 
 | 14 | Tikaram Pandey |   |   |  Business |  3 | 
 | 15 | Umesh Basyal |  9841546397 |  Baneshwar |  Transportation Job |  4 | 
+
+
 # Malunga Basindanda - 2
 
 | SN | Person Name | Contact Num	| Kathmandu Place | Occupation | Members | 
 |----| ----- | -----| ----|-----|-----| 
+| 0 | Baikuntha Basyal (BishwaDev) |  9851106404 |  - |  3  | 
 | 1 | Beni Madhav Basyal | 	9851300014 | 	Balaju |   |  1 | 
 | 2 | Bhuparaj Basyal |  9849472208 |  Baneshwar |   |  3 | 
 | 3 | Bishal Chaulagain |  9816625276 |  Maharajgunj |  Civil ENgineer |  2 | 
@@ -43,10 +47,13 @@
 | 20 | Tanka Basyal |  9851174878 |   |  Consultancy |  3 | 
 | 21 | Thomnath Basyal (Mahesh) |  9843605846 |  Balaju |  Garment Business |  6 | 
 | 22 | Yagya Murti Basyal (Surya) |  9848077691 |  Kalanki | Nepal Bank | 	4 | 
+
+
 # Malunga Kota/KhadaGaira -3
 
 | SN | Person Name | Contact Num	| Kathmandu Place | Occupation | Members | 
 |----| ----- | -----| ----|-----|-----| 
+| 0 | Bharat Aryal |  9866002201 |  Balaju |  Study |  3 | 
 | 1 | BhimLal Basyal |  9841261602 |  Nepaltar |   |  4 | 
 | 2 | Bibek Basyal (Baburam Nati) |  9867105488 |   |   |  1 | 
 | 3 | Bimala Basyal |   |   |   |  1 | 
@@ -62,32 +69,44 @@
 | 13 | Sagar Basyal |  9851196378 |  Balaju |  Business/Shopkeeper |  4 | 
 | 14 | Surya Prasad Basyal |  9841046066 |  Dhapasi |  Business/Cook-Trainer |  4 | 
 | 15 | Tilochan Basyal |  9849937532 |  Gongabu-Buspark |   |  4 | 
-# Malunga Bajadi/Gau - 4-5
+
+
+# Malunga Bajadi/Gau - 4/5
 
 | SN | Person Name | Contact Num	| Kathmandu Place | Occupation | Members | 
 |----| ----- | -----| ----|-----|-----| 
+| 0 | Bishnu Maya Uchahi |  9849650578 |   |  Business/hardware-metal |  1 | 
 | 1 | Dhan Bahadur Hiski Magar |  9860550028 |  Lokanthali |   |  1 | 
+
+
 # Malunga Jaukharak - 6
 
 | SN | Person Name | Contact Num	| Kathmandu Place | Occupation | Members | 
 |----| ----- | -----| ----|-----|-----| 
+| 0 | Dolraj Pandey |  9841895972 |  Sitapaila |  RNAC Job |  1 | 
 | 1 | Ishu Basyal |   |   |  Student |  1 | 
 | 2 | Ishwari Pandey |   |  Kapan |  Teacher |  4 | 
 | 3 | Narayan Basyal |  9861170246 |  Dhobighat |  Business/Hotel |  3 | 
 | 4 | Shreedhar Pandey |   |  Kirtipur |  Computer Engineer |  1 | 
 | 5 | Tankaraj Pandey |   |  Sitapaila |  Gov. Officer |  3 | 
 | 6 | Tekraj Pandey |  9843367710 |  Sitapaila |  Insurance |  3 | 
+
+
 # Malunga Gaira/Chaur - 7
 
 | SN | Person Name | Contact Num	| Kathmandu Place | Occupation | Members | 
 |----| ----- | -----| ----|-----|-----| 
+| 0 | Bibas Tiwari |   |  Kirtipur |  Student |  1 | 
 | 1 | Bikram Tiwari |   |  Kirtipur |  Student |  1 | 
 | 2 | Lekhnath Tiwari |   |  Thapathali |  Freelancer |  4 | 
 | 3 | Madhav Tiwari |   |  Lainchaur |  Hotel and Lodge |  4 | 
+
+
 # Malunga Tunibot/Phata - 8
 
 | SN | Person Name | Contact Num	| Kathmandu Place | Occupation | Members | 
 |----| ----- | -----| ----|-----|-----| 
+| 0 | Amit Bhandari |  9849472208 |  Budhanilkantha |   |  3 | 
 | 1 | Anil Bhandari |  9851199138 |  Budhanilkantha |  Consultancy/Japan |  4 | 
 | 2 | Arjun Pandey |   |  Budhanilkantha |  Lawyer |  4 | 
 | 3 | Bidur Bhandari |  9844735845 |  Maharajgunj |  Consultancy/USA |  1 | 
@@ -106,11 +125,16 @@
 | 16 | Santosh Basyal |  9867931492 |  Manamaiju/Buspark |  Consultancy |  1 | 
 | 17 | Santosh Bhandari (Poshnarayan) |  9849472208 |  Tokha |   |  1 | 
 | 18 | Shree Ram Bhandari |  9841895972 |  Budhanilkantha |   |  1 | 
+
+
 # Malunga Dhangling - 9
 
 | SN | Person Name | Contact Num	| Kathmandu Place | Occupation | Members | 
 |----| ----- | -----| ----|-----|-----| 
+| 0 | Damodar Bhandari |   |   |  Singer |  1 | 
 | 1 | Hari Bhandari |   |   |  Student |  1 | 
 | 2 | Mitral Bhandari Lion |   |  Nakhu |  Engineer |  2 | 
 | 3 | Ram Prasad Bhandari |   | Maharajgunj |  RNAC/Engineer |  2 | 
 | 4 | Shiva Bhandari |   |  Budhanilkantha |  CA |  2 | 
+
+

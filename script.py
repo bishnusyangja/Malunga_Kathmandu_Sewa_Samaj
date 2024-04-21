@@ -4,7 +4,7 @@ ward_list = (
 		'# Malunga Bhedabari - 1', 
 		'# Malunga Basindanda - 2',
 		'# Malunga Kota/KhadaGaira -3',
-		'# Malunga Bajadi/Gau - 4-5',
+		'# Malunga Bajadi/Gau - 4/5',
 		'# Malunga Jaukharak - 6',
 		'# Malunga Gaira/Chaur - 7',
 		'# Malunga Tunibot/Phata - 8',
@@ -42,18 +42,18 @@ def main():
 		csv_reader = csv.reader(csvfile)
 		list_items = list(csv_reader)
 		list_items.pop(0)
+		
 		unique_item_list = filter_unique_lists(list_items)
 		sorted_rows = sorted(unique_item_list, key=lambda x: x[0])
 
 		for i, row in enumerate(sorted_rows):
-			if i == 0:
-				continue
-			row = [item if item else '-' for item in row]
-
+			row = ['-' if item == '' else item for item in row]
 			row_content = ' | '.join(row)
 			md_file.write('| {} | {} | \n'.format(i, row_content))
 
 		csvfile.close()
+		print("{} loaded successfully .... ".format(filename))
+		md_file.write("\n\n")
 	md_file.close()
 
 
