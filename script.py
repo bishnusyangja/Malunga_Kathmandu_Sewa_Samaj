@@ -15,10 +15,11 @@ def filter_unique_lists(list_of_lists):
     seen = {}
     result = []
     for inner_list in list_of_lists:
-        first_element = inner_list[0]
-        if first_element not in seen:
-            seen[first_element] = True
-            result.append(inner_list)
+    	if isinstance(inner_list, list) and len(inner_list) > 0:
+	        first_element = inner_list[0]
+	        if first_element not in seen:
+	            seen[first_element] = True
+	            result.append(inner_list)
     return result
 
 
@@ -44,7 +45,8 @@ def main():
 		list_items.pop(0)
 		
 		unique_item_list = filter_unique_lists(list_items)
-		sorted_rows = sorted(unique_item_list, key=lambda x: x[0])
+		empty_discarded_list = list(filter(lambda x: x[0], unique_item_list))
+		sorted_rows = sorted(empty_discarded_list, key=lambda x: x[0])
 
 		for i, row in enumerate(sorted_rows):
 			row = ['-' if item == '' else item for item in row]
