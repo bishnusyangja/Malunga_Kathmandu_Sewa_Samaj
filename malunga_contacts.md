@@ -47,24 +47,24 @@
 | 10 | Dinesh ko Bhai tallara |   |   |   |  2 | 
 | 11 | Dipak Neupane (Pandit ji) |  9841436961 |  Satdobato/Lalitpur |  Teacher | 	4 | 
 | 12 | Dolraj Basyal |  9851209914 |  Budhanilkantha | Business/School | 	1 | 
-| 13 | Dr Santosh Basyal (Th) |  9849856324 |  Balaju |  Doctor |  1 | 
-| 14 | Gayatri Basyal |   |   |   |  1 | 
-| 15 | Gita Bhandari Basyal |  9849105793 |  Budhanilkantha |   |  1 | 
-| 16 | Jagnath Basyal |  9841508488 |  Imadol |  Business |  3 | 
-| 17 | Joseph Basyal (Raju Sir) |  9848751658 |   |  Student |  1 | 
-| 18 | Kala Basyal |   |  Maharajgunj |  Business/Restaurant |  1 | 
-| 19 | Krishna Neupane |  9841519546 |  Kalanki/Maitrinagar |  Business | 	1 | 
-| 20 | Kriti Basyal |  9808456690 |  Budhanilkantha |  Student |  1 | 
-| 21 | Kushal Basyal |  9841609914 |  Budhanilkantha |  Student |  1 | 
-| 22 | Madhu Basyal |  9869760809 |  Balaju |  Student |  1 | 
-| 23 | Manisha Basyal |   |   |   |  1 | 
-| 24 | Narayan Basyal Agyat |  9863227509 |  Kirtipur |   |  3 | 
-| 25 | Narayan Neupane (Pandit ji) |  9841519546 |  Kirtipur/Bhatkepati |  TU Library |  4 | 
-| 26 | Nikhila Neupane |  9843060687 |  Kalanki |  Student |  1 | 
-| 27 | Parbati Pandey |   | Tokha |   |  2 | 
-| 28 | Pratik Basyal |  9860070850 |   |  Banking |  2 | 
-| 29 | Rajiv Neupane |  9857016237 |  Kalanki |  AgriExpert |  1 | 
-| 30 | Rishi Basyal |  9851080519 |  Tarkeshwar |  Journalist |  4 | 
+| 13 | Gayatri Basyal |   |   |   |  1 | 
+| 14 | Gita Bhandari Basyal |  9849105793 |  Budhanilkantha |   |  1 | 
+| 15 | Jagnath Basyal |  9841508488 |  Imadol |  Business |  3 | 
+| 16 | Joseph Basyal (Raju Sir) |  9848751658 |   |  Student |  1 | 
+| 17 | Kala Basyal |   |  Maharajgunj |  Business/Restaurant |  1 | 
+| 18 | Krishna Neupane |  9841519546 |  Kalanki/Maitrinagar |  Business | 	1 | 
+| 19 | Kriti Basyal |  9808456690 |  Budhanilkantha |  Student |  1 | 
+| 20 | Kushal Basyal |  9841609914 |  Budhanilkantha |  Student |  1 | 
+| 21 | Madhu Basyal |  9869760809 |  Balaju |  Student |  1 | 
+| 22 | Manisha Basyal |   |   |   |  1 | 
+| 23 | Narayan Basyal Agyat |  9863227509 |  Kirtipur |   |  3 | 
+| 24 | Narayan Neupane (Pandit ji) |  9841519546 |  Kirtipur/Bhatkepati |  TU Library |  4 | 
+| 25 | Nikhila Neupane |  9843060687 |  Kalanki |  Student |  1 | 
+| 26 | Parbati Pandey |   | Tokha |   |  2 | 
+| 27 | Pratik Basyal |  9860070850 |   |  Banking |  2 | 
+| 28 | Rajiv Neupane |  9857016237 |  Kalanki |  AgriExpert |  1 | 
+| 29 | Rishi Basyal |  9851080519 |  Tarkeshwar |  Journalist |  4 | 
+| 30 | Santosh Basyal Dr (Th) |  9849856324 |  Balaju |  Doctor |  1 | 
 | 31 | Shanta Basyal |  9860291414 |  Balaju |   |  1 | 
 | 32 | Shiva Basyal |  9849483372 |  Kirtipupr |  GOv. Job |  4 | 
 | 33 | Shreejana Basyal |  9847777720 |  Balaju |  Student |  1 | 
