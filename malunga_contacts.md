@@ -89,6 +89,24 @@
 
 | SN | Person Name | Contact Num	| Kathmandu Place | Occupation | Members | 
 |----| ----- | -----| ----|-----|-----| 
+| 1 | Anil Bhandari |  9851199138 |  Budhanilkantha |  Consultancy/Japan |  4 | 
+| 2 | Arjun Pandey |   |  Budhanilkantha |  Lawyer |  4 | 
+| 3 | Bidur Bhandari |  9844735845 |  Maharajgunj |  Consultancy/USA |  1 | 
+| 4 | Hari Bhandari |  9851290029 |  Budhanilkantha |   |  1 | 
+| 5 | Hari Pandey (small) |  9851055751 |  Naya Baneshwar |  Business |  3 | 
+| 6 | Hari Prasad Pandey |  9851064650 |  Budhanilkantha |  Travel/Ticketing |  4 | 
+| 7 | IndraPrasad Basyal |  9846733857 |  Balaju |   |  1 | 
+| 8 | Keshabraj Pandey |   |  Sohrakhutte |   |  1 | 
+| 9 | Krishna Mani Bhandari |   |  Samakhusi |   |  1 | 
+| 10 | Krishna Prasad Pandey |   |  Makalbari |  Business/Woolen-Factory |  2 | 
+| 11 | Krishna Prasad Shrestha |  9843241185 |   |  Business |  1 | 
+| 12 | Pharsuraam Neupane |  9841689163 |  Kalanki |  Banker |  3 | 
+| 13 | Raju Pandey |  9846800802 |  DhungeDhara |  IT/Banking |  2 | 
+| 14 | Raju Pandey (Army) |   |  Kalanki |  Retired Army |  3 | 
+| 15 | Sampanna Pandey |   | SallaGhari |   |  2 | 
+| 16 | Santosh Basyal |  9867931492 |  Manamaiju/Buspark |  Consultancy |  1 | 
+| 17 | Santosh Bhandari (Poshnarayan) |  9849472208 |  Tokha |   |  1 | 
+| 18 | Shree Ram Bhandari |  9841895972 |  Budhanilkantha |   |  1 | 
 # Malunga Dhangling - 9
 
 | SN | Person Name | Contact Num	| Kathmandu Place | Occupation | Members | 
