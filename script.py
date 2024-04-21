@@ -4,7 +4,11 @@ ward_list = (
 		'# Malunga Bhedabari - 1', 
 		'# Malunga Basindanda - 2',
 		'# Malunga Kota/KhadaGaira -3',
-
+		'# Malunga Bajadi/Gau - 4-5',
+		'# Malunga Jaukharak - 6',
+		'# Malunga Gaira/Chaur - 7',
+		'# Malunga Tunibot/Phata - 8',
+		'# Malunga Dhangling - 9',
 		)
 
 def filter_unique_lists(list_of_lists):
@@ -22,15 +26,16 @@ def main():
 	outfile = 'malunga_contacts.md'
 	md_file = open(outfile, 'w')
 	for ward in range(1, 10):
-		if ward == 4:
-			ward = '4,5'
+		file_appender = '4_5' if ward == 4 else ward
 		if ward == 5:
 			continue
 
-		filename = 'ward_{}.csv'.format(ward)
+		filename = 'ward_{}.csv'.format(file_appender)
 		csvfile = open(filename, 'r', newline='')
 
-		md_file.write('{}\n\n'.format(ward_list[ward-1], ))
+		header_index = ward - 1 if ward < 5 else ward - 2
+
+		md_file.write('{}\n\n'.format(ward_list[header_index], ))
 		md_file.write('| SN | Person Name | Contact Num	| Kathmandu Place | Occupation | Members | \n')
 		md_file.write('|----| ----- | -----| ----|-----|-----| \n')
 		
