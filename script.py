@@ -49,7 +49,7 @@ def main():
 		for i, row in enumerate(sorted_rows):
 			row = ['-' if item == '' else item for item in row]
 			row_content = ' | '.join(row)
-			md_file.write('| {} | {} | \n'.format(i, row_content))
+			md_file.write('| {} | {} | \n'.format(i+1, row_content))
 
 		csvfile.close()
 		print("{} loaded successfully .... ".format(filename))
