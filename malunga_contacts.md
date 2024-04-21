@@ -35,36 +35,47 @@
 
 | SN | Person Name | Contact Num	| Kathmandu Place | Occupation | Members | 
 |----| ----- | -----| ----|-----|-----| 
-| 1 | Baikuntha Basyal (BishwaDev) |  9851106404 |   |   |  3  | 
-| 2 | Balkrishna Basyal(Budhaghara) |   |   |   |  1 | 
-| 3 | Beni Madhav Basyal | 	9851300014 | 	Balaju |   |  1 | 
-| 4 | Bhuparaj Basyal |  9849472208 |  Baneshwar |   |  3 | 
-| 5 | Bishal Chaulagain |  9816625276 |  Maharajgunj |  Civil ENgineer |  2 | 
-| 6 | Bishnu Bhattarai |  9849488227 |  Kirtipur |  Computer Engineer |  2  | 
-| 7 | Dinesh Neupane |  9843605846 |  Baneshwar |  Travel Business | 	4 | 
-| 8 | Dinesh ko Bhai tallara |   |   |   |  2 | 
-| 9 | Dipak Neupane (Pandit ji) |  9841436961 |  Satdobato/Lalitpur |  Teacher | 	4 | 
-| 10 | Dolraj Basyal |  9851209914 |  Budhanilkantha | Business/School | 	1 | 
-| 11 | Gayatri Basyal |   |   |   |  1 | 
-| 12 | Gita Bhandari Basyal |  9849105793 |  Budhanilkantha |   |  1 | 
-| 13 | Jagnath Basyal |  9841508488 |  Imadol |  Business |  3 | 
-| 14 | Joseph Basyal (Raju Sir) |  9848751658 |   |  Student |  1 | 
-| 15 | Krishna Neupane |  9841519546 |  Kalanki/Maitrinagar |  Business | 	4 | 
-| 16 | Kushal Basyal |  9841609914 |  Budhanilkantha |  Student |  1 | 
-| 17 | Manisha Basyal |   |   |   |  1 | 
-| 18 | Narayan Basyal Agyat |  9863227509 |  Kirtipur |   |  3 | 
-| 19 | Narayan Neupane (Pandit ji) |  9841519546 |  Kirtipur/Bhatkepati |  TU Library |  4 | 
-| 20 | Parbati Pandey |   | Tokha |   |  2 | 
-| 21 | Pratik Basyal |  9860070850 |   |  Banking |  2 | 
-| 22 | Rishi Basyal |  9851080519 |  Tarkeshwar |  Journalist |  4 | 
-| 23 | Shiva Basyal |  9849483372 |  Kirtipupr |  GOv. Job |  4 | 
-| 24 | Shyam Sinjali |   |   |   |  2 | 
-| 25 | Sudip Basyal |  9851169406 |  Koteshwar |  Business |  2 | 
-| 26 | Sundar Basyal |  9869064061 |   |   |  1 | 
-| 27 | Sundar Neupane |   |  Kirtipur |  RNAC |  1 | 
-| 28 | Tanka Basyal |  9851174878 |   |  Consultancy |  3 | 
-| 29 | Thomnath Basyal (Mahesh) |  9843605846 |  Balaju |  Garment Business |  1 | 
-| 30 | Yagya Murti Basyal (Surya) |  9848077691 |  Kalanki | Nepal Bank | 	4 | 
+| 1 | Asmita Basyal |  9861571448 |  Balaju |  1 | 
+| 2 | Baikuntha Basyal (BishwaDev) |  9851106404 |   |   |  3  | 
+| 3 | Balkrishna Basyal(Budhaghara) |   |   |   |  1 | 
+| 4 | Beni Madhav Basyal | 	9851300014 | 	Balaju |   |  1 | 
+| 5 | Bhuparaj Basyal |  9849472208 |  Baneshwar |   |  3 | 
+| 6 | Bishal Chaulagain |  9816625276 |  Maharajgunj |  Civil ENgineer |  2 | 
+| 7 | Bishnu Bhattarai |  9849488227 |  Kirtipur |  Computer Engineer |  2  | 
+| 8 | Chandra Pathak |  9849117242 |  Balaju |  Business/Hardware |  1 | 
+| 9 | Dinesh Neupane |  9843605846 |  Baneshwar |  Travel Business | 	4 | 
+| 10 | Dinesh ko Bhai tallara |   |   |   |  2 | 
+| 11 | Dipak Neupane (Pandit ji) |  9841436961 |  Satdobato/Lalitpur |  Teacher | 	4 | 
+| 12 | Dolraj Basyal |  9851209914 |  Budhanilkantha | Business/School | 	1 | 
+| 13 | Dr Santosh Basyal (Th) |  9849856324 |  Balaju |  Doctor |  1 | 
+| 14 | Gayatri Basyal |   |   |   |  1 | 
+| 15 | Gita Bhandari Basyal |  9849105793 |  Budhanilkantha |   |  1 | 
+| 16 | Jagnath Basyal |  9841508488 |  Imadol |  Business |  3 | 
+| 17 | Joseph Basyal (Raju Sir) |  9848751658 |   |  Student |  1 | 
+| 18 | Kala Basyal |   |  Maharajgunj |  Business/Restaurant |  1 | 
+| 19 | Krishna Neupane |  9841519546 |  Kalanki/Maitrinagar |  Business | 	1 | 
+| 20 | Kriti Basyal |  9808456690 |  Budhanilkantha |  Student |  1 | 
+| 21 | Kushal Basyal |  9841609914 |  Budhanilkantha |  Student |  1 | 
+| 22 | Madhu Basyal |  9869760809 |  Balaju |  Student |  1 | 
+| 23 | Manisha Basyal |   |   |   |  1 | 
+| 24 | Narayan Basyal Agyat |  9863227509 |  Kirtipur |   |  3 | 
+| 25 | Narayan Neupane (Pandit ji) |  9841519546 |  Kirtipur/Bhatkepati |  TU Library |  4 | 
+| 26 | Nikhila Neupane |  9843060687 |  Kalanki |  Student |  1 | 
+| 27 | Parbati Pandey |   | Tokha |   |  2 | 
+| 28 | Pratik Basyal |  9860070850 |   |  Banking |  2 | 
+| 29 | Rajiv Neupane |  9857016237 |  Kalanki |  AgriExpert |  1 | 
+| 30 | Rishi Basyal |  9851080519 |  Tarkeshwar |  Journalist |  4 | 
+| 31 | Shanta Basyal |  9860291414 |  Balaju |   |  1 | 
+| 32 | Shiva Basyal |  9849483372 |  Kirtipupr |  GOv. Job |  4 | 
+| 33 | Shreejana Basyal |  9847777720 |  Balaju |  Student |  1 | 
+| 34 | Shristi Basyal |  9803685513 |  Balaju |  Student |  1 | 
+| 35 | Shyam Sinjali |   |   |   |  2 | 
+| 36 | Sudip Basyal |  9851169406 |  Koteshwar |  Business |  2 | 
+| 37 | Sundar Basyal |  9869064061 |   |   |  1 | 
+| 38 | Sundar Neupane |   |  Kirtipur |  RNAC |  1 | 
+| 39 | Tanka Basyal |  9851174878 |   |  Consultancy |  3 | 
+| 40 | Thomnath Basyal (Mahesh) |  9843605846 |  Balaju |  Garment Business |  1 | 
+| 41 | Yagya Murti Basyal (Surya) |  9848077691 |  Kalanki | Nepal Bank | 	4 | 
 
 
 # Malunga Kota/KhadaGaira -3
