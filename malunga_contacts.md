@@ -2,7 +2,7 @@
 
 | SN | Person Name | Contact Num	| Kathmandu Place | Occupation | Members | 
 |----| ----- | -----| ----|-----|-----| 
-| 0 | Anita Adhikari |   |  Tokha |  1 | 
+| 0 | Anita Adhikari |   |  Tokha |   |  1 | 
 | 1 | Bed Prasad Pandey |   |   |  Business |  3 | 
 | 2 | Bishnu Basyal |  9849472208 |  Baneshwar |   | 1 | 
 | 3 | Dipak Basyal |  9841214611 |  Kirtipur |  Gov. Job |  5 | 
@@ -24,7 +24,7 @@
 
 | SN | Person Name | Contact Num	| Kathmandu Place | Occupation | Members | 
 |----| ----- | -----| ----|-----|-----| 
-| 0 | Baikuntha Basyal (BishwaDev) |  9851106404 |  - |  3  | 
+| 0 | Baikuntha Basyal (BishwaDev) |  9851106404 |   |   |  3  | 
 | 1 | Beni Madhav Basyal | 	9851300014 | 	Balaju |   |  1 | 
 | 2 | Bhuparaj Basyal |  9849472208 |  Baneshwar |   |  3 | 
 | 3 | Bishal Chaulagain |  9816625276 |  Maharajgunj |  Civil ENgineer |  2 | 
