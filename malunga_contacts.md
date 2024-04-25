@@ -150,7 +150,7 @@
 | 11 | Madhav Tiwari |   |  Lainchaur |  Hotel and Lodge |  4 | 
 | 12 | Ram Prasad Basyal |  9844178883 |   |   |  2 | 
 | 13 | Rama Tiwari |   |   |   |  1 | 
-| 14 | Shiva Tiwari |   |  Kalanki |   |  1 | 
+| 14 | Shiva Tiwari |  9867204594 |  Kalanki |   |  1 | 
 | 15 | Shrijana Tiwari |   |   |   |  1 | 
 
 
