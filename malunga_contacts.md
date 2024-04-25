@@ -61,22 +61,24 @@
 | 24 | Narayan Basyal Agyat |  9863227509 |  Kirtipur |   |  3 | 
 | 25 | Narayan Neupane (Pandit ji) |  9841700631 |  Kirtipur/Bhatkepati |  TU Library |  4 | 
 | 26 | Nikhila Neupane |  9843060687 |  Kalanki |  Student |  1 | 
-| 27 | Parbati Pandey |   | Tokha |   |  2 | 
-| 28 | Pratik Basyal |  9860070850 |   |  Banking |  2 | 
-| 29 | Rajiv Neupane |  9857016237 |  Kalanki |  AgriExpert |  1 | 
-| 30 | Rishi Basyal |  9851080519 |  Tarkeshwar |  Journalist |  4 | 
-| 31 | Santosh Basyal Dr (Th) |  9849856324 |  Balaju |  Doctor |  1 | 
-| 32 | Shanta Basyal |  9860291414 |  Balaju |   |  1 | 
-| 33 | Shiva Basyal |  9849483372 |  Kirtipupr |  GOv. Job |  4 | 
-| 34 | Shreejana Basyal |  9847777720 |  Balaju |  Student |  1 | 
-| 35 | Shristi Basyal |  9803685513 |  Balaju |  Student |  1 | 
-| 36 | Shyam Sinjali |   |   |   |  2 | 
-| 37 | Sudip Basyal |  9851169406 |  Koteshwar |  Business |  2 | 
-| 38 | Sundar Basyal |  9869064061 |   |   |  1 | 
-| 39 | Sundar Neupane |   |  Kirtipur |  RNAC |  1 | 
-| 40 | Tanka Basyal |  9851174878 |   |  Consultancy |  3 | 
-| 41 | Thomnath Basyal (Mahesh) |  9843605846 |  Balaju |  Garment Business |  1 | 
-| 42 | Yagya Murti Basyal (Surya) |  9848077691 |  Kalanki | Nepal Bank | 	4 | 
+| 27 | Nirajan Basyal (Arvaudi) |  9849000082 |   |  Student |  3 | 
+| 28 | Parbati Pandey |   | Tokha |   |  2 | 
+| 29 | Pratik Basyal |  9860070850 |   |  Banking |  2 | 
+| 30 | Rajiv Neupane |  9857016237 |  Kalanki |  AgriExpert |  1 | 
+| 31 | Rishi Basyal |  9851080519 |  Tarkeshwar |  Journalist |  4 | 
+| 32 | Santosh Basyal Dr (Th) |  9849856324 |  Balaju |  Doctor |  1 | 
+| 33 | Saraswati Basyal |  9843056074 |  Balaju |   |  1 | 
+| 34 | Shanta Basyal |  9860291414 |  Balaju |   |  1 | 
+| 35 | Shiva Basyal |  9849483372 |  Kirtipupr |  GOv. Job |  4 | 
+| 36 | Shreejana Basyal |  9847777720 |  Balaju |  Student |  1 | 
+| 37 | Shristi Basyal |  9803685513 |  Balaju |  Student |  1 | 
+| 38 | Shyam Sinjali |   |   |   |  2 | 
+| 39 | Sudip Basyal |  9851169406 |  Koteshwar |  Business |  2 | 
+| 40 | Sundar Basyal |  9869064061 |   |   |  1 | 
+| 41 | Sundar Neupane |   |  Kirtipur |  RNAC |  1 | 
+| 42 | Tanka Basyal |  9851174878 |   |  Consultancy |  3 | 
+| 43 | Thomnath Basyal (Mahesh) |  9843605846 |  Balaju |  Garment Business |  1 | 
+| 44 | Yagya Murti Basyal (Surya) |  9848077691 |  Kalanki | Nepal Bank | 	4 | 
 
 
 # Malunga Kota/KhadaGaira -3
@@ -118,16 +120,17 @@
 | 2 | Govinda Basyal |   |  Kalanki |   |  1 | 
 | 3 | Ishu Basyal |   |   |  Student |  1 | 
 | 4 | Ishwari Pandey |   |  Kapan |  Teacher |  4 | 
-| 5 | Madhav Bhai Basyal |   |   |   |  1 | 
-| 6 | Mina Pandey Devkota |  9851165538 |  Sitapaila |  Business/Electrical |  4 | 
-| 7 | Narayan Basyal |  9861170246 |  Dhobighat |  Business/Hotel |  3 | 
-| 8 | Pramish Pandey |   |  Sitapaila |  Student |  1 | 
-| 9 | Prasamsha Pandey |   |  Sitapaila |  Student |  1 | 
-| 10 | Purshottam Chhora Basyal |   |   |   |  1 | 
-| 11 | Shreedhar Pandey |   |  Kirtipur |  Computer Engineer |  1 | 
-| 12 | Tankaraj Pandey |   |  Sitapaila |  Gov. Officer |  3 | 
-| 13 | Tekraj Pandey |  9843367710 |  Sitapaila |  Insurance |  3 | 
-| 14 | Yubraj Basyal (Jaukharak) |   |   |   |  1 | 
+| 5 | Karuna Pandey |  9843174850 |  Machhapokhari |  Insurance |  1 | 
+| 6 | Madhav Bhai Basyal |   |   |   |  1 | 
+| 7 | Mina Pandey Devkota |  9851165538 |  Sitapaila |  Business/Electrical |  1 | 
+| 8 | Narayan Basyal |  9861170246 |  Dhobighat |  Business/Hotel |  3 | 
+| 9 | Pramish Pandey |   |  Sitapaila |  Student |  1 | 
+| 10 | Prasamsha Pandey |   |  Sitapaila |  Student |  1 | 
+| 11 | Purshottam Chhora Basyal |   |   |   |  1 | 
+| 12 | Shreedhar Pandey |   |  Kirtipur |  Computer Engineer |  1 | 
+| 13 | Tankaraj Pandey |   |  Sitapaila |  Gov. Officer |  3 | 
+| 14 | Tekraj Pandey |  9843367710 |  Sitapaila |  Insurance |  3 | 
+| 15 | Yubraj Basyal (Jaukharak) |   |   |   |  1 | 
 
 
 # Malunga Gaira/Chaur - 7
