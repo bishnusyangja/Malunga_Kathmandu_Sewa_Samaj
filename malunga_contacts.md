@@ -144,9 +144,10 @@
 | 9 | Keshav Basyal Bhai |   |   |   |  1 | 
 | 10 | Lekhnath Tiwari |   |  Thapathali |  Freelancer |  4 | 
 | 11 | Madhav Tiwari |   |  Lainchaur |  Hotel and Lodge |  4 | 
-| 12 | Rama Tiwari |   |   |   |  1 | 
-| 13 | Shiva Tiwari |   |  Kalanki |   |  1 | 
-| 14 | Shrijana Tiwari |   |   |   |  1 | 
+| 12 | Ram Prasad Basyal |  9844178883 |   |   |  2 | 
+| 13 | Rama Tiwari |   |   |   |  1 | 
+| 14 | Shiva Tiwari |   |  Kalanki |   |  1 | 
+| 15 | Shrijana Tiwari |   |   |   |  1 | 
 
 
 # Malunga Tunibot/Phata - 8
