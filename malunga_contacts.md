@@ -6,16 +6,16 @@
 | 2 | Bed Prasad Pandey |  9841899251 |  NayaBazaar |  Garment-Business |  3 | 
 | 3 | Bhagwati Basyal |  9849150779 |   |   |  1 | 
 | 4 | Bishnu Basyal |  986041900 |  Baneshwar |  NGO |  1 | 
-| 5 | Dibash Basyal 9843976012 |  Balaju |  Student |  1 | 
+| 5 | Dibash Basyal |  9843976012 |  Balaju |  Student |  1 | 
 | 6 | Dipak Basyal |  9841214611 |  Kirtipur |  Gov. Job |  5 | 
 | 7 | Dipak Basyal (Raju) |  9851147256 |  Baneshwar |  Business |  4 | 
 | 8 | Dipenti Basyal |   |  Kalanki |  Student |  1 | 
 | 9 | Dipesh Basyal |  9851283983 |  Durbar Marg |  Police/DSP |  1 | 
 | 10 | Ganga Basyal |  986333580 |   |   |  1 | 
-| 11 | Ishwar Basyal 9846199913 |  Baneshwar |  Gov-job |  1 | 
+| 11 | Ishwar Basyal |  9846199913 |  Baneshwar |  Gov-job |  1 | 
 | 12 | Jivlal Basyal |  9851234274 |  Kadaghari-Bhaktapur |  Business |  3 | 
 | 13 | Lilamani Basyal |  9816625266 |   |  Student |  1 | 
-| 14 | Mahesh Basyal 9846876229 |  Baneshwar |  Student |  1 | 
+| 14 | Mahesh Basyal |  9846876229 |  Baneshwar |  Student |  1 | 
 | 15 | Mandira Basyal |   |   |   |  1 | 
 | 16 | Mina Gaire |   |   |   |  1 | 
 | 17 | Narayan Adhikari |  9866557902 |  Tokha |  Student |  1 | 
@@ -23,10 +23,10 @@
 | 19 | Saru Gaire |  9860303516 |   |   |  1 | 
 | 20 | Shiva Adhikari |  9846724059 |  Tokha |  Civil Engineer/Business |  3 | 
 | 21 | Shova Basyal |   | Kalanki |   |  1 | 
-| 22 | Shova Basyal (Nurse) |  9867884746 |   | Maharajgunj |  Nurse |  1 | 
+| 22 | Shova Basyal (Nurse) |  9867884746 |  Maharajgunj |  Nurse |  1 | 
 | 23 | Sushmita Pandey |   |   |   |  1 | 
 | 24 | Tikaram Pandey |  9851030542 |  NayaBazaar |  Business |  3 | 
-| 25 | Tila Basyal Bhandari 9843619202 |   |   |  1 | 
+| 25 | Tila Basyal Bhandari |  9843619202 |   |   |  1 | 
 | 26 | Umesh Basyal |  9841546397 |  Baneshwar |  Road-Division/Ktm |  4 | 
 | 27 | YamKala Basyal |  9841536141 |  Chahabil |   |  1 | 
 
@@ -35,7 +35,7 @@
 
 | SN | Person Name | Contact Num	| Kathmandu Place | Occupation | Members | 
 |----| ----- | -----| ----|-----|-----| 
-| 1 | Asmita Basyal |  9861571448 |  Balaju |  1 | 
+| 1 | Asmita Basyal |  9861571448 |  Balaju |   |  1 | 
 | 2 | Baikuntha Basyal (BishwaDev) |  9851106404 |   |   |  3  | 
 | 3 | Balkrishna Basyal(Budhaghara) |   |   |   |  1 | 
 | 4 | Beni Madhav Basyal | 	9851300014 | 	Balaju |   |  1 | 
@@ -58,7 +58,7 @@
 | 21 | Madhu Basyal |  9869760809 |  Balaju |  Student |  1 | 
 | 22 | Manisha Basyal |   |   |   |  1 | 
 | 23 | Narayan Basyal Agyat |  9863227509 |  Kirtipur |   |  3 | 
-| 24 | Narayan Neupane (Pandit ji) |  9841519546 |  Kirtipur/Bhatkepati |  TU Library |  4 | 
+| 24 | Narayan Neupane (Pandit ji) |  9841700631 |  Kirtipur/Bhatkepati |  TU Library |  4 | 
 | 25 | Nikhila Neupane |  9843060687 |  Kalanki |  Student |  1 | 
 | 26 | Parbati Pandey |   | Tokha |   |  2 | 
 | 27 | Pratik Basyal |  9860070850 |   |  Banking |  2 | 
@@ -95,9 +95,10 @@
 | 11 | Pawan Basyal |   |   |   |  1 | 
 | 12 | Phanishwar Basyal (Nabin) |  9841567800 |  Tokha-3/Grandee |  Business/School |  2 | 
 | 13 | Purushottam Basyal |  9846168246 |  Satdobato-Lalitpur |  Teacher |  4 | 
-| 14 | Sagar Basyal(Thulibari) |  9851196378 |  Balaju |  Business/Shopkeeper |  4 | 
-| 15 | Surya Prasad Basyal |  9841046066 |  Dhapasi |  Business/Cook-Trainer |  4 | 
-| 16 | Tilochan Basyal |  9849937532 |  Gongabu-Buspark |   |  4 | 
+| 14 | Ram Prasad Basyal |  9848034721 |   |   |  3 | 
+| 15 | Sagar Basyal(Thulibari) |  9851196378 |  Balaju |  Business/Shopkeeper |  4 | 
+| 16 | Surya Prasad Basyal |  9841046066 |  Dhapasi |  Business/Cook-Trainer |  4 | 
+| 17 | Tilochan Basyal |  9849937532 |  Gongabu-Buspark |   |  4 | 
 
 
 # Malunga Bajadi/Gau - 4/5
@@ -117,28 +118,35 @@
 | 3 | Ishu Basyal |   |   |  Student |  1 | 
 | 4 | Ishwari Pandey |   |  Kapan |  Teacher |  4 | 
 | 5 | Madhav Bhai Basyal |   |   |   |  1 | 
-| 6 | Narayan Basyal |  9861170246 |  Dhobighat |  Business/Hotel |  3 | 
-| 7 | Pramish Pandey |   |  Sitapaila |  Student |  1 | 
-| 8 | Prasamsha Pandey |   |  Sitapaila |  Student |  1 | 
-| 9 | Purshottam Chhora Basyal |   |   |   |  1 | 
-| 10 | Shreedhar Pandey |   |  Kirtipur |  Computer Engineer |  1 | 
-| 11 | Tankaraj Pandey |   |  Sitapaila |  Gov. Officer |  3 | 
-| 12 | Tekraj Pandey |  9843367710 |  Sitapaila |  Insurance |  3 | 
-| 13 | Yubraj Basyal (Jaukharak) |   |   |   |  1 | 
+| 6 | Mina Pandey Devkota |  9851165538 |  Sitapaila |  Business/Electrical |  4 | 
+| 7 | Narayan Basyal |  9861170246 |  Dhobighat |  Business/Hotel |  3 | 
+| 8 | Pramish Pandey |   |  Sitapaila |  Student |  1 | 
+| 9 | Prasamsha Pandey |   |  Sitapaila |  Student |  1 | 
+| 10 | Purshottam Chhora Basyal |   |   |   |  1 | 
+| 11 | Shreedhar Pandey |   |  Kirtipur |  Computer Engineer |  1 | 
+| 12 | Tankaraj Pandey |   |  Sitapaila |  Gov. Officer |  3 | 
+| 13 | Tekraj Pandey |  9843367710 |  Sitapaila |  Insurance |  3 | 
+| 14 | Yubraj Basyal (Jaukharak) |   |   |   |  1 | 
 
 
 # Malunga Gaira/Chaur - 7
 
 | SN | Person Name | Contact Num	| Kathmandu Place | Occupation | Members | 
 |----| ----- | -----| ----|-----|-----| 
-| 1 | Basudev (Son) Tiwari |   |   |   |  1 | 
-| 2 | BeniMadhav (Son/Daughter) |   |   |   |  2 | 
-| 3 | Bibas Tiwari |   |  Kirtipur |  Student |  1 | 
-| 4 | Bikram Tiwari |   |  Kirtipur |  Student |  1 | 
-| 5 | Giridhiri (Son) Tiwari |   |   |   |  1 | 
-| 6 | Lekhnath Tiwari |   |  Thapathali |  Freelancer |  4 | 
-| 7 | Madhav Tiwari |   |  Lainchaur |  Hotel and Lodge |  4 | 
-| 8 | Shiva Tiwari |   |  Kalanki |   |  1 | 
+| 1 | Anita Tiwari Pandey |   |   |   |  1 | 
+| 2 | Basudev (Son) Tiwari |   |   |   |  1 | 
+| 3 | BeniMadhav (Son/Daughter) |   |   |   |  2 | 
+| 4 | Bhim Basyal |   |   |   |  3 | 
+| 5 | Bibas Tiwari |   |  Kirtipur |  Student |  1 | 
+| 6 | Bikram Tiwari |   |  Kirtipur |  Student |  1 | 
+| 7 | Giridhiri (Son) Basyal |   |   |   |  1 | 
+| 8 | Keshav Basyal |  9857062572 |   |  Business/Ghadi |  3 | 
+| 9 | Keshav Basyal Bhai |   |   |   |  1 | 
+| 10 | Lekhnath Tiwari |   |  Thapathali |  Freelancer |  4 | 
+| 11 | Madhav Tiwari |   |  Lainchaur |  Hotel and Lodge |  4 | 
+| 12 | Rama Tiwari |   |   |   |  1 | 
+| 13 | Shiva Tiwari |   |  Kalanki |   |  1 | 
+| 14 | Shrijana Tiwari |   |   |   |  1 | 
 
 
 # Malunga Tunibot/Phata - 8
