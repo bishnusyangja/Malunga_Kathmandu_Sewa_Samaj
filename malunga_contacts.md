@@ -51,7 +51,7 @@
 | 14 | Gita Bhandari Basyal |  9849105793 |  Budhanilkantha |   |  1 | 
 | 15 | Jagnath Basyal |  9841508488 |  Imadol |  Business |  3 | 
 | 16 | Joseph Basyal (Raju Sir) |  9848751658 |   |  Student |  1 | 
-| 17 | Kala Basyal |   |  Maharajgunj |  Business/Restaurant |  1 | 
+| 17 | Kala Basyal (Kamala) |   |  Maharajgunj |  Business/Restaurant |  1 | 
 | 18 | Krishna Neupane |  9841519546 |  Kalanki/Maitrinagar |  Business | 	1 | 
 | 19 | Kriti Basyal |  9808456690 |  Budhanilkantha |  Student |  1 | 
 | 20 | Kushal Basyal |  9841609914 |  Budhanilkantha |  Student |  1 | 
@@ -190,12 +190,12 @@
 
 | SN | Person Name | Contact Num	| Kathmandu Place | Occupation | Members | 
 |----| ----- | -----| ----|-----|-----| 
-| 1 | Damodar Bhandari |   |   |  Singer |  1 | 
-| 2 | Hari Bhandari |   |   |  Student |  1 | 
-| 3 | Mitral Bhandari Lion |   |  Nakhu |  Engineer |  2 | 
+| 1 | Damodar Bhandari |  9801971824 |   |  Singer |  1 | 
+| 2 | Hari Bhandari |  9841214611 |   |  Student |  1 | 
+| 3 | Mitral Bhandari Lion |  9861396588 |  Nakhu |  Engineer |  2 | 
 | 4 | Prakash Bhandari |  9867272257 |   |   |  1 | 
-| 5 | Pushpa Bhandari |  9741860073 |   |   |  1 | 
-| 6 | Ram Prasad Bhandari |   | Maharajgunj |  RNAC/Engineer |  2 | 
-| 7 | Shiva Bhandari |   |  Budhanilkantha |  CA |  2 | 
+| 5 | Pushpa Bhandari |  9741860073 (need to confirm) |   |   |  1 | 
+| 6 | Ram Prasad Bhandari |  9851162819 |  Maharajgunj |  RNAC/Engineer |  2 | 
+| 7 | Shiva Bhandari |  9847189421 |  Budhanilkantha |  CA |  2 | 
 
 
