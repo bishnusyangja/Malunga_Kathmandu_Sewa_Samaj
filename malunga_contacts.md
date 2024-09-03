@@ -132,7 +132,7 @@
 | 3 | Durga Devi Bashyal |  9860930627 |  Kirtipur |   |  1 | 
 | 4 | Govinda Basyal |  9856034739 |  Kalanki |  Business |  1 | 
 | 5 | Indra Prasad Bashyal |  9846733857 |   |   |  1 | 
-| 6 | Ishu Basyal |   |   |  Student |  1 | 
+| 6 | Ishu Basyal |  9867791609 |   |  Student |  1 | 
 | 7 | Ishwari Pandey |  9841135985 |  Kapan |  Teacher |  4 | 
 | 8 | Karuna Pandey |  9843174850 |  Machhapokhari |  Insurance |  1 | 
 | 9 | Mina Pandey Devkota |  9851165538 |  Sitapaila |  Business/Electrical |  1 | 
